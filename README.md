@@ -10,11 +10,11 @@ It allows to :
 - reply to emails
 - navigate through sent box, inbox, archived mails
 
-# Demo video
+## Demo video
 
 [View on Youtube](https://youtu.be/H2igxGnPG2M)
 
-# Run the program
+## Run the program
 
 Clone the repository on your machine.
 
@@ -22,7 +22,7 @@ Make sure Python/django are installed, then run :
 
 `bashpython manage.py runserver`
 
-# Techs used:
+## Techs used:
 
 - Django
 - JS
