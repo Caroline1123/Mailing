@@ -17,5 +17,13 @@ It allows to :
 # Run the program
 
 Clone the repository on your machine.
+
 Make sure Python/django are installed, then run :
+
 `bashpython manage.py runserver`
+
+# Techs used:
+
+- Django
+- JS
+- Bootstrap
